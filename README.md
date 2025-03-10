@@ -110,23 +110,6 @@ jupyter notebook
 ```
 Then, open `chatbot_demo.ipynb`.
 
----
-
-## 🏆 Recent Research & Development  
-
-### 📢 **IEEE CAI 2025 Paper Acceptance**  
-🚀 **Our research paper has been accepted at the prestigious IEEE Conference on Artificial Intelligence (CAI 2025)!** 🎉  
-🔗 [CAI 2025 Conference](https://cai.ieee.org/2025/)  
-
-### 🏗️ **High-Performance Computing (HPC) & AI**  
-We are currently working on:  
-- **Deep Learning for Bed Posture Recognition** (99%+ accuracy)  
-- **Optimizing AI Agents on HPC**  
-- **Computer Vision for real-world applications**  
-
-### 📝 **ATS Resume Checker**  
-I recently tested **Gemini 1.5 Pro** for evaluating ATS-compliant resumes.  
-🔗 **Check it out on GitHub:** [ATS Resume Profile Checker](https://github.com/farheen-akhter-23/LLM-RAG)  
 
 ---
 
@@ -141,7 +124,6 @@ Let's connect! 🔗 **[LinkedIn](https://www.linkedin.com/in/farheen-akhter-153a
 
 ## 🏆 Contributors  
 👨‍💻 **Farheen Akhter** - **AI Researcher & ML Engineer**  
-💻 **CSUSB CSE Research Team**  
 
 ---
 
