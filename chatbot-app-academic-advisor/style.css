@@ -1,0 +1,44 @@
+.chat-title{
+    font-size: 45px;
+    font-weight: bold;
+    background-color:#ffffff;
+    z-index: 999;
+    text-align: center;
+    position: sticky;
+    top: 0; 
+    padding: 10px 0; /* Add some padding for aesthetics */
+    margin: 0; /* Remove default margin */
+    border-bottom: 1px solid #ddd;
+
+}
+div[data-testid="stVerticalBlock"] div:has(div.fixed-header) {
+    text-align: center;
+    position: sticky;
+    top: 0; /* Align to the very top */
+    z-index: 999;
+}
+
+.user-message {
+    text-align: right;
+    background-color: #f1f1f1;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    max-width: 70%;
+    display: inline-block;
+    float: right;
+}
+
+.assistant-message {
+    text-align: left;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 70%;
+    float: left;
+    clear: both;
+}
+.user-message, .assistant-message {
+    transition: all 0.3s ease;
+}
