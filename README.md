@@ -33,6 +33,9 @@ The system **scrapes** these websites, stores structured content in **Milvus**, 
 
 ## 🏗️ Architecture  
 
+![arch-diagram](https://github.com/user-attachments/assets/77fdb0ba-f891-4833-bd9d-4b3901c26db9)
+
+
 The chatbot follows a **hybrid search + LLM** architecture:  
 
 1️⃣ **Web Scraping & Data Storage**:  
