@@ -29,7 +29,7 @@ Make sure the following are installed on your local machine before proceeding:
 First, clone the GitHub repository to your local machine using the command below:
 
 ```
-git clone https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team2.git
+git clone https://github.com/farheen-akhter-23/Milvus-MistralAI-Chatbot.git
 ```
 
 
