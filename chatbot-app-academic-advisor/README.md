@@ -38,7 +38,7 @@ git clone https://github.com/DrAlzahraniProjects/csusb_fall2024_cse6550_team2.gi
 Once the repository is cloned, navigate to the project directory location:
 
 ```
-cd csusb_fall2024_cse6550_team2
+cd app
 ```
 
 #### Step 3: Update the Local Repository
@@ -65,12 +65,12 @@ If **Step 4** does not work for you use **Step 5** as an alternative to build do
 Make sure Docker is installed and running on your local machine. Build the Docker image by using the following command:
 
 ```
-docker build -t team2_app .
+docker build -t app .
 ```
 
 Run the Docker image by using the following command. Make sure you replace the "MISTRAL_API_KEY" with actual key from [Team2 Discussions Board](https://csusb.instructure.com/courses/43192/discussion_topics/419700) 
 ```
-docker run -d -p 5002:5002 -p 6002:6002 -e API_KEY=MISTRAL_API_KEY  team2_app
+docker run -d -p 5002:5002 -p 6002:6002 -e API_KEY=MISTRAL_API_KEY  app
 ```
 ---
 ## Accessing the Application
